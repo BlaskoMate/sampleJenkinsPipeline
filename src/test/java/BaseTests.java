@@ -9,6 +9,7 @@ import pages.IndexPage;
 import java.net.MalformedURLException;
 import java.net.URL;
 
+// test
 public class BaseTests {
         protected static WebDriver driver;
         protected IndexPage indexPage = new IndexPage(driver);
